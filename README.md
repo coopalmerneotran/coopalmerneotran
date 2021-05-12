@@ -1,0 +1,1 @@
+可以修改Makefile中PKG_SOURCE_VERSION为你需要编译的commit id
